@@ -1,0 +1,17 @@
+﻿Method,Site,Vocalization,Detections
+Manual,CR19,MS,736
+Semi-automated,CR19,MS,621
+Manual,CR19,FS,368
+Semi-automated,CR19,FS,136
+Manual,CR19,BC,201
+Semi-automated,CR19,BC,141
+Manual,HL19,MS,610
+Semi-automated,HL19,MS,368
+Manual,HL19,FS,348
+Semi-automated,HL19,FS,119
+Manual,HL19,BC,744
+Semi-automated,HL19,BC,432
+Manual,RR19,MS,418
+Semi-automated,RR19,MS,364
+Manual,RR19,FS,154
+Semi-automated,RR19,FS,23
